@@ -63,16 +63,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ayushverma23&theme=onedark" />
 </div>
 
----
 
-## 🐍 *Eating My Contributions*
-
-<div align="center">
-    <img alt="snake eating my contributions" src="https://github.com/ayushverma23/ayushverma23/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-</div>
-
----
 
 🌟 *Feel free to Star my repositories to support my work!* 🚀
