@@ -30,7 +30,7 @@
   <a href="https://linkedin.com/in/ayush-verma92" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://ayushverma23.github.io" target="_blank">
+  <a href="https://ayush-portfolio-lemon.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </div>
