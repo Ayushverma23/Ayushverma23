@@ -1,7 +1,7 @@
 ![GitHub Banner](https://raw.githubusercontent.com/Ayushverma23/Ayushverma23/refs/heads/main/WhatsApp%20Image%202025-03-12%20at%2000.13.50_42e5af3b.jpg)
 
 <h1 align="center">     
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF66FF&lines=Hello+There!+👋;+I'm+Ayush+Verma!;+Java+Developer!;+Python+Developer!;+Machine+Learning+Enthusiast!;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF66FF&lines=Hello+There!+👋;+I'm+Ayush+Verma!;+Full+Stack+Developer!;+Java+Developer!;+Python+Developer!;+Machine+Learning+Enthusiast!;" /> 
 </h1>
 
 <h3 align="center">🚀 Java Developer | Full Stack Developer | Python Developer | Machine Learning Enthusiast </h3>
